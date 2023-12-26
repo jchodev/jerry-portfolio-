@@ -43,7 +43,6 @@ This is the app is for the parent's phone - you must also install a different ap
 <img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/f66b831a-7619-4097-9a91-41a1682fcef8" width="200"/>
 <img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/2f63dd61-c337-429b-a7a0-1801c04d5db7" width="200"/>
 <img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/dbf8120a-a3d0-4393-9645-a1af45297ed9" width="200"/>
-<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/40d91d65-caa2-43f3-ae4b-74b2eaa1656" width="200"/>
   
 ##### 🔨Technologies: Android SDK · Object-Oriented Programming (OOP) · MVC · SQLite · Push Notification · Java
 ##### 🚀Platform: 📱Android
@@ -57,5 +56,34 @@ MMGuardian Parental Control gives parents the ability to set up comprehensive pa
 <img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/c20a40cb-79af-4ebd-9235-14adf392bfcb" width="200"/>
 
 ##### 🔨Technologies: Android SDK · Object-Oriented Programming (OOP) · MVC · SQLite · <a href="https://developer.android.com/reference/android/accessibilityservice/AccessibilityService">Android accessibility service</a> · <a href="https://developer.android.com/reference/android/service/notification/NotificationListenerService">NotificationListenerService</a> · Java · AOSP
-
 ##### 🚀Platform: 📱Android
+
+## <a href="https://www.mmguardian.com/uk/iphone-message-reports#step1_win" target="_blank">MMGuardian Windows Sync app</a>
+The MMGuardian Sync App is an application that parents install onto their own home computer (or laptop) to get reports of iMessage, SMS and popular social media app messages.
+
+When your child’s iPhone or iPad is connected to the same WiFi network as your computer, the Sync App will periodically ‘synchronize’ with your child’s device, and generate the message reports which can be viewed in the ‘Parent App’ application installed on the parent’s phone.
+<p align="center">
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/5c0f1595-2995-49b0-9abb-eb7247b34e53" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/6dc1ff2a-b1d6-464d-ba80-c4b34dbbe1b3" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/0d40c213-ca36-4a0b-a6b8-aca12dd039b" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/116ede63-6c1e-4a32-b8dd-12a0c81e3a4b" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/eb4a78e8-599c-404b-95c7-1cc955dbdb75" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/7e24a8b0-b79c-4961-9b39-88df32b868b4" width="200"/>
+
+##### 🔨Technologies: Windows App · Object-Oriented Programming (OOP) · MVC · SQLite · C# · WPF .NET Framework
+##### 🚀Platform: 🪟Windows
+
+## <a href="https://play.google.com/store/apps/details?id=com.omegatraders.android" target="_blank"OTX - Omega Traders</a>
+OTX is one of most advance Gold, Silver and Forex trading platform and information center.
+The apps system provides LDN Gold, Silver and Forex markets real time quotes with online trading capability.
+<p align="center">
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/78a5129e-c746-46f6-9b36-e3469b8597bb" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/1cae0d53-d96a-4b3a-a6db-08fa323213a1" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/0c4a412b-08f0-47fa-849a-ba42181337e2" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/efb90b97-4e0a-4ceb-b25b-478605d3abd2" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/c6fbd523-4f2d-46b1-a68f-bbc6c4a4242e" width="200"/>
+
+
+##### 🔨Technologies: Android SDK · Object-Oriented Programming (OOP) · MVP · Socket · Java
+##### 🚀Platform: 📱Android
+

@@ -2,7 +2,10 @@
 ### 👋 Hi! I'm Jerry. 👋
 
 # About Me
-Experienced Java and Kotlin developer with over 14 years in Android and Backend development, specializing in user interface design, testing, debugging, and staff training. Proficient in delivering professional solutions to clients. Seeking a challenging position to leverage my expertise, drive personal growth, and contribute to the success of a dynamic organization
+Experienced Java and Kotlin developer with over 14 years in Android and Backend development, specializing in user interface design, testing, debugging, and staff training. Proficient in delivering professional solutions to clients. Seeking a challenging position to leverage my expertise, drive personal growth, and contribute to the success of a dynamic organization.
+
+- 👤 <a href = "https://www.linkedin.com/in/jerry-cho-799b0489/"> Linkedin </a>
+- 📰 <a href = "https://medium.com/@jerry.cho.dev"> Medium </a>
 
 # Here's a bit of what I've been working on. 
 ## <a href="https://play.google.com/store/apps/details?id=com.endclothing.endroid&hl=en&gl=US" target="_blank">END. app</a>

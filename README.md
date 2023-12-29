@@ -76,7 +76,7 @@ When your child’s iPhone or iPad is connected to the same WiFi network as your
 ##### 🔨Technologies: Windows App · Object-Oriented Programming (OOP) · MVC · SQLite · C# · WPF .NET Framework
 ##### 🚀Platform: 🪟Windows
 
-## <a href="https://play.google.com/store/apps/details?id=com.omegatraders.android" target="_blank"OTX - Omega Traders</a>
+## <a href="https://play.google.com/store/apps/details?id=com.omegatraders.android" target="_blank">OTX - Omega Traders</a>
 OTX is one of most advance Gold, Silver and Forex trading platform and information center.
 The apps system provides LDN Gold, Silver and Forex markets real time quotes with online trading capability.
 <p align="center">

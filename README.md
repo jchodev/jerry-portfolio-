@@ -76,6 +76,18 @@ When your child’s iPhone or iPad is connected to the same WiFi network as your
 ##### 🔨Technologies: Windows App · Object-Oriented Programming (OOP) · MVC · SQLite · C# · WPF .NET Framework
 ##### 🚀Platform: 🪟Windows
 
+## <a href="https://play.google.com/store/apps/details?id=com.sinodynamic.tng.consumer" target="_blank">TNG Wallet - 香港人的電子錢包</a>
+Real-time Global Remittance, Global Bill Payments and Global SIM Top-ups
+Transfer money to designated overseas bank account or 183,000+ cash pick-up outlets globally across 13 countries, pay bill (local and overseas), top up prepaid SIM, all at fingertips!
+<p align="center">
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/7ffa6b51-803c-4fc6-a143-bff018718707" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/3c54f876-92f8-47d2-a2bf-0ec013fdda69" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/77859845-21cf-4925-8ea5-4b331217f260" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/2b48cbfb-9b65-410c-af5b-803f4ca924ab" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/b932833f-a14e-4015-b8ea-00b05a0142b8" width="200"/>
+<img src="https://github.com/jchodev/jerry-portfolio-/assets/100594737/e8beb448-c2d2-43cb-b847-67331a4d2019" width="200"/>
+</p>
+
 ## <a href="https://play.google.com/store/apps/details?id=com.omegatraders.android" target="_blank">OTX - Omega Traders</a>
 OTX is one of most advance Gold, Silver and Forex trading platform and information center.
 The apps system provides LDN Gold, Silver and Forex markets real time quotes with online trading capability.

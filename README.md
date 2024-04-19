@@ -18,6 +18,9 @@ An free application for tracking your daily income and expense
 <img src="https://github.com/jchodev/money-tracker-android/assets/100594737/8fe34db5-a2b8-4f4f-bbff-ebb5eaac8bfb" width=25% height=25%>
 <img src="https://github.com/jchodev/money-tracker-android/assets/100594737/01d86410-4df6-4230-bb6c-660fce2f6a3f" width=25% height=25%>
   
+##### 🔨Technologies: Android SDK · Object-Oriented Programming (OOP) · Jetpack compose · Hilt · MVVM · Clean Architecture  · Modularization · Kotlin 
+##### 🚀Platform: 📱Android
+  
 ## <a href="https://play.google.com/store/apps/details?id=com.endclothing.endroid&hl=en&gl=US" target="_blank">END. app</a>
 END. curates a world-leading menswear brand roster including Saint Laurent, Comme des Garçons, Off-White and Stone Island alongside hard-to-find sneakers from Adidas, Nike, Jordan, New Balance and Common Projects. Browse latest arrivals, discover break-through brands and explore the latest trends with our slick, quick and easy-to-use app for Android.
 <p align="center">

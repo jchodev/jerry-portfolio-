@@ -11,12 +11,12 @@ Experienced Java and Kotlin developer with over 14 years in Android and Backend 
 ## <a href="https://github.com/jchodev/money-tracker-android" target="_blank">Person Money Tracker</a>
 An free application for tracking your daily income and expense
 <p align="center">
-<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/7adf2fcc-55f8-4e8f-a41b-b296d185285d" width=25% height=25%>
-<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/82ff672e-c7f1-4962-a9b1-7040814b7928" width=25% height=25%>
-<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/e7155d8e-43e7-43b5-aac0-5736ae2c878c" width=25% height=25%>
-<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/b05bf5f7-3793-4529-af72-ae531ad3688d" width=25% height=25%>
-<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/8fe34db5-a2b8-4f4f-bbff-ebb5eaac8bfb" width=25% height=25%>
-<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/01d86410-4df6-4230-bb6c-660fce2f6a3f" width=25% height=25%>
+<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/7adf2fcc-55f8-4e8f-a41b-b296d185285d"  width="200">
+<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/82ff672e-c7f1-4962-a9b1-7040814b7928"  width="200">
+<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/e7155d8e-43e7-43b5-aac0-5736ae2c878c" width="200">
+<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/b05bf5f7-3793-4529-af72-ae531ad3688d" width="200">
+<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/8fe34db5-a2b8-4f4f-bbff-ebb5eaac8bfb" width="200">
+<img src="https://github.com/jchodev/money-tracker-android/assets/100594737/01d86410-4df6-4230-bb6c-660fce2f6a3f" width="200">
   
 ##### 🔨Technologies: Android SDK · Object-Oriented Programming (OOP) · Jetpack compose · Hilt · MVVM · Clean Architecture  · Modularization · Kotlin 
 ##### 🚀Platform: 📱Android

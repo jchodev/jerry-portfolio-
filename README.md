@@ -9,7 +9,7 @@ Experienced Java and Kotlin developer with over 14 years in Android and Backend 
 
 # Here's a bit of what I've been working on. 
 ## <a href="https://github.com/jchodev/money-tracker-android" target="_blank">Person Money Tracker</a>
-An free application for tracking your daily income and expense
+An free application for tracking your daily income and expense [https://play.google.com/store/apps/details?id=com.jerry.moneytracker]
 <p align="center">
 <img src="https://github.com/jchodev/money-tracker-android/assets/100594737/7adf2fcc-55f8-4e8f-a41b-b296d185285d"  width="200">
 <img src="https://github.com/jchodev/money-tracker-android/assets/100594737/82ff672e-c7f1-4962-a9b1-7040814b7928"  width="200">
